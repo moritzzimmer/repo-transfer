@@ -1,4 +1,4 @@
-repo-transfer
+repo-transfer [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 =============
 
 [Transfers](https://help.github.com/articles/about-repository-transfers/) all Github repositories to another user or organization. See [Github api](https://developer.github.com/v3/repos/#transfer-a-repository) for details.
